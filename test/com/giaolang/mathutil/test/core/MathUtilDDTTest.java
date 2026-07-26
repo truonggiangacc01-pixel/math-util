@@ -34,7 +34,7 @@ public class MathUtilDDTTest {
                             {2, 2},
                             {3, 6},
                             {4, 24},
-                            {6, 720},
+                            {6, 120},
         };
     }
     
